@@ -1,6 +1,6 @@
 # 👋 Welcome to the Intelika 
 ### 🧪 Intelika is a cutting edge artificial intelligence utilities platform with tons of exciting features! 
-> 🧠 More information will be available here after we launch our first prototype ;)
+> 🧠 More goodies may be available here later ;)
 
 
 <!--
